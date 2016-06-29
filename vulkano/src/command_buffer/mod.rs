@@ -53,10 +53,11 @@ pub use self::outer::SecondaryGraphicsCommandBuffer;
 pub use self::outer::SecondaryComputeCommandBufferBuilder;
 pub use self::outer::SecondaryComputeCommandBuffer;
 
-mod inner;
-mod outer;
+mod inner;      // TODO: remove
+mod outer;      // TODO: remove
 
 pub mod pool;
+pub mod standard;
 pub mod sys;
 
 #[repr(C)]
