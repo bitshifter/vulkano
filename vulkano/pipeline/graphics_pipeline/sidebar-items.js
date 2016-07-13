@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["GraphicsPipelineCreationError","Error that can happen when creating a graphics pipeline."]],"struct":[["GraphicsPipeline","Defines how the implementation should perform a draw operation."],["GraphicsPipelineParams","Description of a `GraphicsPipeline`."],["GraphicsPipelineParamsTess","Additional parameters if you use tessellation."]]});

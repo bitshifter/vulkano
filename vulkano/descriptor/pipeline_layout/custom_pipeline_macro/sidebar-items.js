@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CombinedImageSampler",""],["InputAttachment",""],["SampledImage",""],["StorageBuffer",""],["StorageImage",""],["UniformBuffer",""]],"trait":[["DescriptorMarker",""],["ValidParameter",""]]});

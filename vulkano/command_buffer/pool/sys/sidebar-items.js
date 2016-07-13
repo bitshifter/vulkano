@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["UnsafeCommandPool","Low-level implementation of a command pool."],["UnsafeCommandPoolAllocIter","Iterator for newly-allocated command buffers."]]});

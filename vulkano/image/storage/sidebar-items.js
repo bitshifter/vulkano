@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["StorageImage","General-purpose image in device memory. Can be used for any usage, but will be slower than a specialized image."]]});

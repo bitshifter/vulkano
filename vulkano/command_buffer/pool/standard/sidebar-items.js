@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["StandardCommandPool","Standard implementation of a command pool."],["StandardCommandPoolFinished",""]]});
